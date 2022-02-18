@@ -1,0 +1,11 @@
+{
+  "$id": "zendesk_sectionCreatedDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Section Created Date",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

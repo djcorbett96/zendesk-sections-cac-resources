@@ -1,0 +1,16 @@
+{
+  "$id": "zendesk_sectionCategoryID",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Section Category ID",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {}
+      }
+    }
+  },
+  "typeId": "list"
+}

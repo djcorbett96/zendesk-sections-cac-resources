@@ -1,0 +1,13 @@
+{
+  "$id": "zendesk_sectionURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Section URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "string"
+}

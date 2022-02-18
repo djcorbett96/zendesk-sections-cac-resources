@@ -1,0 +1,18 @@
+{
+  "$id": "zendesk_zendeskSection.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Zendesk Section-default",
+  "entityType": "zendesk_zendeskSection",
+  "fields": [
+    "zendesk_isSectionOutdated",
+    "zendesk_parentSectionID",
+    "zendesk_sectionCategoryID",
+    "zendesk_sectionCreatedDate",
+    "zendesk_sectionDescription",
+    "zendesk_sectionLastUpdatedDate",
+    "zendesk_sectionLocale",
+    "zendesk_sectionThemeTemplate",
+    "zendesk_sectionURL"
+  ],
+  "required": []
+}

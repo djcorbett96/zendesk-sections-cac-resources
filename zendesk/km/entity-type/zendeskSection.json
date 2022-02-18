@@ -1,0 +1,7 @@
+{
+  "$id": "zendesk_zendeskSection",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Zendesk Section",
+  "pluralDisplayName": "Zendesk Sections"
+}

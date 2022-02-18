@@ -1,0 +1,69 @@
+{
+  "$id": "zendesk_zendeskSection",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "zendesk_zendeskSection",
+  "displayName": "Zendesk Section",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "zendesk_sectionURL"
+        },
+        {
+          "id": "zendesk_sectionDescription"
+        },
+        {
+          "id": "zendesk_sectionCreatedDate"
+        },
+        {
+          "id": "zendesk_sectionLastUpdatedDate"
+        },
+        {
+          "id": "zendesk_sectionThemeTemplate"
+        },
+        {
+          "id": "zendesk_sectionLocale"
+        },
+        {
+          "id": "zendesk_parentSectionID"
+        },
+        {
+          "id": "zendesk_sectionCategoryID"
+        },
+        {
+          "id": "zendesk_isSectionOutdated"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}
